@@ -1,4 +1,3 @@
-# CS50
-# CS50
-# CS50
-# CS50
+# Introduction  
+This project is to complete the weekly deliverables for CS50
+
